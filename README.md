@@ -13,11 +13,11 @@ The **Searching for Prompt App** is designed to help users find, manage, and exp
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/searching-for-prompt.git
+   git clone https://github.com/prajwallshetty/nextapp
    ```
 2. Navigate to the project directory:
    ```sh
-   cd searching-for-prompt
+   cd nextapp
    ```
 3. Install dependencies:
    ```sh
