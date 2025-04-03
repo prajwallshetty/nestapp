@@ -18,7 +18,6 @@ const Navbar = () => {
         </ul>
         <div>
           <a href="#contact">Contact  
-            <Image src={assets.arrow_icon} alt="Arrow Icon" className="w-3" width={12} height={12} />
           </a>
         </div>
       </nav>
